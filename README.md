@@ -2,7 +2,7 @@
 a new tab replacement for chrome
 
 # Notes
-* chrome is really annoying and tells you to disable things
+* chrome is really annoying and tells you to disable things dont do those things
 
 # Installation
 1. [download]()

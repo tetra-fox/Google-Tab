@@ -1,0 +1,15 @@
+{
+   "manifest_version":2,
+   "name":"Google Tab",
+   "short_name": "GTab",
+   "version":"1.0",
+   "description":"a new tab replacement for chrome",
+   "icons":{
+      "128":"icons/icon128.png",
+      "48":"icons/icon48.png",
+      "16":"icons/icon16.png"
+   },
+   "chrome_url_overrides":{
+      "newtab":"index.html"
+   }
+}

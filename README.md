@@ -1,6 +1,9 @@
 # Google-Tab
 a new tab replacement for chrome
 
+# Notes
+* chrome is really annoying and tells you to disable things
+
 # Installation
 1. [download]()
 2. go to **chrome://extensions**

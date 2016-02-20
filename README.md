@@ -5,7 +5,7 @@ a new tab replacement for chrome
 * chrome is really annoying and tells you to disable things dont do those things
 
 # Installation
-1. [download]()
+1. [download](https://github.com/wc1202/Google-Tab/archive/master.zip)
 2. go to **chrome://extensions**
 3. check ![this](http://i.imgur.com/XAKuLar.png)
 4. click ![this](http://i.imgur.com/D5yIpbE.png)
